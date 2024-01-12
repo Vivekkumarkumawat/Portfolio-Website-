@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0; 
+ }
+ body{
+    overflow-x: hidden;  
+}
+ .navbar{
+     height:70px;
+     background-color: #607274;
+     display: flex;
+     
+ }
+ .logo img{
+    width: 100px;
+    height: 50px;
+    margin: 10px 15px;
+
+}
+
+.navbaranchor{
+    padding: 25px ;
+    margin-left: 33%;
+}
+.navbaranchor :hover{
+    color: yellow;
+      
+
+}
+.navbaranchor a{
+text-decoration: none;
+color: white;
+padding: 30px;
+font-size: 20px;
+font-weight: bold;
+
+}
+
+.navbar2{
+    height:527px;
+    background-color: #FAEED1;
+}
+.Skill{
+    font-size: 60px;
+    font-weight: bold;
+    /* text-align: center; */
+    padding: 1%;
+    padding-left: 21%;
+    
+}
+.section{
+    background-color:  rgb(252 159 175);
+    padding: 2% 2% 2% 2%;
+    box-shadow: 0 0 25px black;
+    border-radius: 10px;
+    margin-left: 3%;
+    margin-right: 50%;
+}
+.skill-item{
+    /* background-color: pink;
+    padding: 3% 3% 3% 3%;
+    border-radius: 5%; */
+    display: flex;
+    gap: 3%;
+    justify-content: center;
+    margin-top: 3%;
+}
+.skill-item img{
+    width: 80px;
+    height: 80px;
+    
+}
+.details {
+    width: 50%;
+    padding-left: 5%;
+    float: left;
+    padding-top: 5%;
+    
+}
+.details, p, ul h3{
+    font-size:20px;
+    margin-bottom: 15px;
+    text-align: justify;
+    padding-right: 1%;
+}
+.Skill-pic img{
+    width: 400px;
+    height: 300px;
+    float: right;
+    padding-right: 4%;
+    padding-top: 4%;
+    
+}

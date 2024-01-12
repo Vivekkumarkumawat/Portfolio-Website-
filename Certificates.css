@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0; 
+ }
+ body{
+    overflow-x: hidden;  
+}
+ .navbar{
+     height:70px;
+     background-color: #607274;
+     display: flex;
+     
+ }
+ .logo img{
+    width: 100px;
+    height: 50px;
+    margin: 10px 15px;
+
+}
+
+.navbaranchor{
+    padding: 25px ;
+    margin-left: 33%;
+}
+.navbaranchor :hover{
+    color: yellow;    
+
+}
+.navbaranchor a{
+text-decoration: none;
+color: white;
+padding: 30px;
+font-size: 20px;
+font-weight: bold;
+
+}
+
+.navbar2{
+    height: 100%;
+    background-color: #FAEED1;
+}
+
+.certification{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    padding: 1%;
+   
+}
+
+.anchor{
+    display: flex;
+    margin-top: 2%;
+   
+}
+.anchor a{
+    text-decoration: none;
+    color: black;
+    padding: 1%;
+    /* font-weight: bold; */
+  
+}
+.anchor p{
+    margin-top: 5%;
+}
+.anchor img{
+    height: 250px;
+    width: 350px;
+    transition: 0.5;
+    
+}
+.anchor img:hover{
+    transform: scale(1.1);
+    /* z-index: 2; */
+}
