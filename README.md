@@ -1,1 +1,2 @@
 # Portfolio-Website-
+I Built with HTML and CSS, my portfolio is a concise online representation of my professional journey. Featuring a welcoming homepage, intuitive navigation, and sections highlighting skills, projects, and experience, it ensures an engaging user experience. With a responsive design, it effectively showcases my expertise and invites seamless interaction for potential opportunities.
